@@ -1,0 +1,31 @@
+// Uber
+{
+  "platformName": "Android",
+  "appium:platformVersion": "12",
+  "appium:deviceName": "POCO X3 NFC",
+  "appium:udid": "b11769",
+  "appium:automationName": "UiAutomator2",
+  "appium:appPackage": "com.ubercab",
+  "appium:appActivity": "com.ubercab.presidio.app.core.root.RootActivity"
+}
+
+// Reddit
+{
+  "platformName": "Android",
+  "appium:platformVersion": "12",
+  "appium:deviceName": "POCO X3 NFC",
+  "appium:udid": "b11769",
+  "appium:automationName": "UiAutomator2",
+  "appium:appPackage": "com.reddit.frontpage",
+  "appium:appActivity": "com.reddit.launch.main.MainActivity"
+}
+// Calculator
+{
+  "platformName": "Android",
+  "appium:platformVersion": "12",
+  "appium:deviceName": "POCO X3 NFC",
+  "appium:udid": "b11769",
+  "appium:automationName": "UiAutomator2",
+  "appium:appPackage": "com.miui.calculator",
+  "appium:appActivity": "com.miui.calculator.cal.CalculatorActivity"
+}
